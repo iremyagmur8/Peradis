@@ -1,0 +1,65 @@
+[24-May-2022 14:23:39 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/u0073930/peradis.com/inc/header.php on line 58
+[24-May-2022 14:23:41 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/u0073930/peradis.com/inc/header.php on line 58
+[24-May-2022 14:23:49 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/u0073930/peradis.com/inc/header.php on line 58
+[24-May-2022 14:23:57 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/u0073930/peradis.com/inc/header.php on line 58
+[24-May-2022 15:28:08 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'tr' (T_STRING) in /home/u0073930/peradis.com/index.php on line 17
+[24-May-2022 15:28:10 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'tr' (T_STRING) in /home/u0073930/peradis.com/index.php on line 17
+[24-May-2022 15:28:47 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE), expecting ',' or ';' in /home/u0073930/peradis.com/index.php on line 18
+[24-May-2022 15:28:55 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'tr' (T_STRING) in /home/u0073930/peradis.com/index.php on line 17
+[24-May-2022 15:28:56 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'tr' (T_STRING) in /home/u0073930/peradis.com/index.php on line 17
+[24-May-2022 15:28:56 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'tr' (T_STRING) in /home/u0073930/peradis.com/index.php on line 17
+[24-May-2022 15:28:57 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'tr' (T_STRING) in /home/u0073930/peradis.com/index.php on line 17
+[24-May-2022 15:28:57 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'tr' (T_STRING) in /home/u0073930/peradis.com/index.php on line 17
+[24-May-2022 15:28:58 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'tr' (T_STRING) in /home/u0073930/peradis.com/index.php on line 17
+[24-May-2022 15:28:59 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'tr' (T_STRING) in /home/u0073930/peradis.com/index.php on line 17
+[24-May-2022 15:29:14 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:29:16 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:29:16 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:29:16 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:29:22 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:29:23 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:29:24 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:29:26 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:29:26 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:29:27 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:29:48 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:39:49 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/u0073930/peradis.com/inc/header.php on line 172
+[24-May-2022 15:39:52 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/u0073930/peradis.com/inc/header.php on line 172
+[24-May-2022 15:39:54 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/u0073930/peradis.com/inc/header.php on line 172
+[24-May-2022 15:39:57 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/u0073930/peradis.com/inc/header.php on line 172
+[24-May-2022 15:42:37 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/u0073930/peradis.com/index.php on line 15
+[24-May-2022 15:45:06 Europe/Istanbul] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/u0073930/peradis.com/index.php on line 15
+[24-May-2022 15:45:06 Europe/Istanbul] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/u0073930/peradis.com/index.php on line 19
+[24-May-2022 15:45:06 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u0073930/peradis.com/index.php on line 20
+[24-May-2022 15:45:08 Europe/Istanbul] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/u0073930/peradis.com/index.php on line 15
+[24-May-2022 15:45:08 Europe/Istanbul] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/u0073930/peradis.com/index.php on line 19
+[24-May-2022 15:45:08 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u0073930/peradis.com/index.php on line 20
+[24-May-2022 15:45:14 Europe/Istanbul] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/u0073930/peradis.com/index.php on line 15
+[24-May-2022 15:45:14 Europe/Istanbul] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/u0073930/peradis.com/index.php on line 19
+[24-May-2022 15:45:14 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u0073930/peradis.com/index.php on line 20
+[24-May-2022 15:45:15 Europe/Istanbul] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/u0073930/peradis.com/index.php on line 15
+[24-May-2022 15:45:15 Europe/Istanbul] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/u0073930/peradis.com/index.php on line 19
+[24-May-2022 15:45:15 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u0073930/peradis.com/index.php on line 20
+[24-May-2022 15:45:15 Europe/Istanbul] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/u0073930/peradis.com/index.php on line 15
+[24-May-2022 15:45:15 Europe/Istanbul] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/u0073930/peradis.com/index.php on line 19
+[24-May-2022 15:45:15 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u0073930/peradis.com/index.php on line 20
+[24-May-2022 15:45:16 Europe/Istanbul] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/u0073930/peradis.com/index.php on line 15
+[24-May-2022 15:45:16 Europe/Istanbul] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/u0073930/peradis.com/index.php on line 19
+[24-May-2022 15:45:16 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u0073930/peradis.com/index.php on line 20
+[24-May-2022 15:45:18 Europe/Istanbul] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/u0073930/peradis.com/index.php on line 15
+[24-May-2022 15:45:18 Europe/Istanbul] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/u0073930/peradis.com/index.php on line 19
+[24-May-2022 15:45:18 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u0073930/peradis.com/index.php on line 20
+[24-May-2022 15:45:19 Europe/Istanbul] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/u0073930/peradis.com/index.php on line 15
+[24-May-2022 15:45:19 Europe/Istanbul] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/u0073930/peradis.com/index.php on line 19
+[24-May-2022 15:45:19 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u0073930/peradis.com/index.php on line 20
+[24-May-2022 15:53:20 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:53:20 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:53:20 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:54:16 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:54:16 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:54:16 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:54:18 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:54:18 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:54:20 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:54:22 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
+[24-May-2022 15:54:22 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/u0073930/peradis.com/index.php on line 16
